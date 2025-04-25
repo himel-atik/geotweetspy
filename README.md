@@ -32,7 +32,7 @@ pip install requests
 
 ### 🖥 Run the Tool
 ```bash
-python3 tools.py
+python3 geotweetspy.py
 ```
 
 ### You will be prompted to enter:
